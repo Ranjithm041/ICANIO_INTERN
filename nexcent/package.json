@@ -2,6 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Ranjithm041.github.io/ICANIO_INTERN/Calc",
   "dependencies": {
     "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.13.0",
